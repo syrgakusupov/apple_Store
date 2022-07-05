@@ -1,0 +1,71 @@
+h3{
+    margin: 30px 300px;
+}
+.block{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    gap: 50px;
+    height: 80rem;
+    
+a{
+        text-decoration: none;
+        color: black;
+}    
+}
+.block1{
+    display: block;
+img{
+    width: 300px;
+}
+.btn{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+
+img{
+    width: 36px;
+}
+.black{
+    background-color: black;
+}
+.white{
+    background-color: rgb(233, 230, 227);
+}
+}
+
+}
+.text{
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+
+h5{
+    font-size: 16px;
+}
+img{
+    margin-top: 50px;
+    margin-bottom: 20px;
+    width: 40px;
+    display: flex;
+    justify-content: start;
+}    
+
+p{
+    font-size: 16px;
+    display: block;
+    text-align: start;
+    line-height: 40px;
+
+}
+}
+.pages{
+    display: block;
+    margin-right: 100px;
+img{
+    width: 20px;
+}    
+a{
+    color: rgb(0, 0, 197);
+}
+}

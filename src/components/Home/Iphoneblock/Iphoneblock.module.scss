@@ -1,0 +1,55 @@
+.Iphone{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.block{
+    display: block;
+    align-items: center;
+    text-align: center;
+h1{
+    font-size: 60px;
+    color: black;
+}
+p{
+    font-size: 20px;
+    opacity: 0.7;
+}
+a{
+    font-size: 17px;
+    text-decoration: none;
+}
+}
+.wrap{
+    margin-left: 200px;
+    display: flex;
+    flex-wrap: wrap;
+    width: 1500px;
+    justify-content: center;
+}
+
+
+.block1{
+    display: block;
+    background-color: rgba(37, 34, 34, 0.11);
+    padding: 20px;
+    margin: 20px;
+h4{
+    color: black;
+}
+h5{
+    color: black;
+}
+p{
+    opacity: 0.7;
+}
+a{
+    text-decoration: none;
+}
+.Navlink{
+    display: flex;
+    text-align: start;
+}
+img{
+    width: 250px;
+}
+}

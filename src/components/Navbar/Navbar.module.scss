@@ -1,0 +1,66 @@
+.Navbar{
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 15px;
+.iphone{
+    display: block;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: black;
+&:hover{
+    transform: scale(1.1);
+    transition: 0.2s ease;
+    border-bottom: 2px solid rgb(7, 7, 7);
+    margin-top: -17px;
+  
+}
+&:focus{
+    transform: scale(1.1);
+    transition: 0.2s ease;
+    border-bottom: 2px solid rgb(7, 7, 7);
+    margin-top: -17px;
+}
+}
+
+.Mac{
+    display: block;
+    text-align: center;
+}
+.Watch{
+    display: block;
+    text-align: center;
+}
+.AirPods{
+    display: block;
+    text-align: center;
+}
+.gadzhet{
+    display: block;
+    text-align: center;
+}
+.Sravnenie{
+    display: block;
+    text-align: center;
+}
+
+.Acsessuary{
+    display: block;
+    text-align: center;
+}
+.trade_in{
+    display: block;
+    text-align: center;
+}
+}
+.img{
+    position: absolute;
+margin-left: 1480px;
+img{
+    width: 60px;
+    
+}    
+}

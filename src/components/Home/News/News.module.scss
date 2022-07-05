@@ -1,0 +1,35 @@
+.blocknews{
+    display: flex;
+    justify-content: center;
+}
+.text{
+    display: block;
+    align-items: center;
+    text-align: center;
+    margin: 30px;
+h4{
+    font-size: 20px;
+    color: black;
+}
+p{
+    font-size: 15px;
+    opacity: 0.7;
+}
+a{
+    font-size: 18px;
+    text-decoration: none;
+
+}
+}
+.news1{
+    display: block;
+    text-align: start;
+    justify-content: center;
+img{
+    width: 400px;
+}
+.text{
+    display: block;
+    text-align: start;
+}
+}

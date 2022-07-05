@@ -1,0 +1,113 @@
+.block{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 50px;
+}
+.block1{
+    display: block;
+    text-align: center;
+}
+.hover{
+    margin-top: 100px;
+img:hover{
+    transform: scale(1.1);
+    transition: 1s;
+    
+}
+}
+
+.btn{
+    display: flex;
+    gap: 20px;
+    button{
+        padding: 15px;
+        border-radius: 100%;
+        border: none;
+        cursor: pointer;
+
+        &:focus{
+            box-shadow:0px 1px 2px 1px  black;
+        }
+    }
+
+
+
+.a{
+    background-color: rgb(235, 233, 233);
+}
+.a{
+    background-color: black;
+b{
+    background-color: rgb(105, 105, 98);
+}
+}
+
+}
+.blockk{
+    margin-top: 40px;
+}
+
+.pamit{
+
+.pamit1{
+    display: flex;
+    gap: 20px;
+button{
+    width: 90px;
+    height: 40px;
+    font-size: 20px;
+    background-color: white;
+    border: solid 1px;
+
+    &:focus{
+        border: solid rgb(62, 97, 48);
+    }
+}
+
+
+}
+}
+.price{
+    margin-top: 30px;
+
+    p{
+        font-size: 40px;
+        font-weight: 400;
+    }    
+}
+
+.btn_k{
+    padding: 30px 0;
+button{
+    border-radius: 10px;
+    border: none;    
+    width: 130px;
+    height: 45px;
+    background-color: rgba(15, 95, 170, 0.788);
+    font-size: 20px;
+    color: white;
+    font-weight: 500;
+}
+
+}
+.harac{
+    margin-top: 10px;
+
+h4{
+    padding-top: 10px;
+    padding-bottom: 20px;
+    font-size: 20px;
+}
+img{
+    width: 50px;
+}
+.cambion{
+        display: flex;
+        gap: 60px;
+}
+.rescera{
+        display: flex;
+        gap: 20px;
+} 
+}
+

@@ -1,0 +1,54 @@
+.header{
+img{
+    width: 30px;
+}
+    
+    margin-top: 40px;
+    margin-left: 300px;
+    
+}
+
+.Iphone{
+    margin-top: 20px;
+    margin-bottom: 100px;
+}
+.wrap{
+    margin-left: 200px;
+    display: flex;
+    flex-wrap: wrap;
+    width: 1500px;
+    justify-content: center;
+    text-align: center;
+
+a{
+    text-decoration: none;
+}
+}
+
+
+.block1{
+    display: block;
+    padding: 20px;
+    margin: 20px;
+
+    
+h4{
+    color: black;
+}
+h5{
+    color: black;
+}
+p{
+    color: black;
+    opacity: 0.7;
+}
+img{
+    width: 250px;
+}
+}
+.cards{
+img{
+    width: 20px;
+}
+    
+}
